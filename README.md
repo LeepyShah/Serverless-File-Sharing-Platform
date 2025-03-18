@@ -22,8 +22,10 @@ Users can interact with the platform using any HTTP client, like **Postman** or 
 | 🔑 **IAM**            | **Access Control**             | Manages user roles and permissions.             |
 | 📊 **CloudWatch**     | **Monitoring & Logging Service** | Tracks system performance and logs activities.  |
 
-
 ---
+## Project Architecture:
+![image](https://github.com/user-attachments/assets/42478c31-cfdd-4334-89bc-3fe90b843198)
+
 
 ## 🔧 Installation & Setup
 1. **Clone the Repository**
